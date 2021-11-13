@@ -69,10 +69,10 @@ userCommand[1].trim().length() > 0)
 
 ## Running the program
 The five commands will be listed ie., 1.storeurl 2.get 3.list 4.count 5 exit
-- storeurl is used for storing the url entered by the user into the hashmap.
-- get command is used for fetching the url ie., get <url>.
-- list command returns the url list alongwith the number of times it has been fetched using get command.
+- storeurl `storeurl <url>` is used for storing the url entered by the user into the hashmap.
+- get command is used for fetching the url ie., `get <url>`.
+- `list` command returns the url list alongwith the number of times it has been fetched using get command.
 - count command `count <url>` returns the usage of that particular url.
-- Finally, exit command to exit from the program.
+- Finally, `exit` command to exit from the program.
   ![Screenshot (48)](https://user-images.githubusercontent.com/56961626/141656394-15cb1eab-9cb4-49c6-a645-45203ecebb91.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/56961626/141656398-786beb53-5948-475e-8cb1-c6f36e2b3b32.png)
